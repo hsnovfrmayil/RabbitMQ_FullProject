@@ -1,0 +1,17 @@
+/Users/fermayilhesenov/Projects/RabbitMQ_FullProject/RabbitMQ.Consumer/obj/Debug/net7.0/RabbitMQ.Consumer.csproj.AssemblyReference.cache
+/Users/fermayilhesenov/Projects/RabbitMQ_FullProject/RabbitMQ.Consumer/obj/Debug/net7.0/RabbitMQ.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fermayilhesenov/Projects/RabbitMQ_FullProject/RabbitMQ.Consumer/obj/Debug/net7.0/RabbitMQ.Consumer.AssemblyInfoInputs.cache
+/Users/fermayilhesenov/Projects/RabbitMQ_FullProject/RabbitMQ.Consumer/obj/Debug/net7.0/RabbitMQ.Consumer.AssemblyInfo.cs
+/Users/fermayilhesenov/Projects/RabbitMQ_FullProject/RabbitMQ.Consumer/obj/Debug/net7.0/RabbitMQ.Consumer.csproj.CoreCompileInputs.cache
+/Users/fermayilhesenov/Projects/RabbitMQ_FullProject/RabbitMQ.Consumer/bin/Debug/net7.0/RabbitMQ.Consumer
+/Users/fermayilhesenov/Projects/RabbitMQ_FullProject/RabbitMQ.Consumer/bin/Debug/net7.0/RabbitMQ.Consumer.deps.json
+/Users/fermayilhesenov/Projects/RabbitMQ_FullProject/RabbitMQ.Consumer/bin/Debug/net7.0/RabbitMQ.Consumer.runtimeconfig.json
+/Users/fermayilhesenov/Projects/RabbitMQ_FullProject/RabbitMQ.Consumer/bin/Debug/net7.0/RabbitMQ.Consumer.dll
+/Users/fermayilhesenov/Projects/RabbitMQ_FullProject/RabbitMQ.Consumer/bin/Debug/net7.0/RabbitMQ.Consumer.pdb
+/Users/fermayilhesenov/Projects/RabbitMQ_FullProject/RabbitMQ.Consumer/bin/Debug/net7.0/RabbitMQ.Client.dll
+/Users/fermayilhesenov/Projects/RabbitMQ_FullProject/RabbitMQ.Consumer/obj/Debug/net7.0/RabbitMQ.Consumer.csproj.CopyComplete
+/Users/fermayilhesenov/Projects/RabbitMQ_FullProject/RabbitMQ.Consumer/obj/Debug/net7.0/RabbitMQ.Consumer.dll
+/Users/fermayilhesenov/Projects/RabbitMQ_FullProject/RabbitMQ.Consumer/obj/Debug/net7.0/refint/RabbitMQ.Consumer.dll
+/Users/fermayilhesenov/Projects/RabbitMQ_FullProject/RabbitMQ.Consumer/obj/Debug/net7.0/RabbitMQ.Consumer.pdb
+/Users/fermayilhesenov/Projects/RabbitMQ_FullProject/RabbitMQ.Consumer/obj/Debug/net7.0/RabbitMQ.Consumer.genruntimeconfig.cache
+/Users/fermayilhesenov/Projects/RabbitMQ_FullProject/RabbitMQ.Consumer/obj/Debug/net7.0/ref/RabbitMQ.Consumer.dll

@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{5BDD8BA4-E55C-4A9A-A694-F99337080579}|Default">
+  <MonoDevelop.Ide.ItemProperties.RabbitMQ.Publisher PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RabbitMQ.Consumer PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
